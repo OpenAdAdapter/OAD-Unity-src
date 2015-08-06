@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/iOS/OpenAdAdapter/pack"]
+	path = Assets/Plugins/iOS/OpenAdAdapter/pack
+	url = https://github.com/OpenAdAdapter/OAD-iOS-bin.git
